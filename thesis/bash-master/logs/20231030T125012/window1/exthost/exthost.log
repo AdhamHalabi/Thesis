@@ -1,0 +1,25 @@
+2023-10-30 12:50:16.138 [info] Extension host with pid 12834 started
+2023-10-30 12:50:16.335 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-10-30 12:50:16.395 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-10-30 12:50:16.561 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-30 12:50:16.806 [info] Eager extensions activated
+2023-10-30 12:50:16.819 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-30 12:50:16.823 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-30 12:50:19.005 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-30 12:50:19.155 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-30 12:50:19.260 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-30 12:51:03.335 [info] Extension host terminating: renderer closed the MessagePort
+2023-10-30 12:51:03.401 [info] Extension host with pid 12834 exiting with code 0
+2023-10-30 12:51:05.061 [info] Extension host with pid 12927 started
+2023-10-30 12:51:05.061 [info] Skipping acquiring lock for /home/lei906/Desktop/adham/bash-master/User/workspaceStorage/2bb3c10767ef3828060bece1605e1b03.
+2023-10-30 12:51:05.128 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-10-30 12:51:05.137 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-30 12:51:05.161 [info] Eager extensions activated
+2023-10-30 12:51:05.170 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-30 12:51:05.173 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-30 12:51:12.632 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-10-30 12:51:48.032 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-30 12:52:08.265 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-30 12:52:08.288 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-31 01:20:24.181 [info] Extension host terminating: renderer closed the MessagePort
+2023-10-31 01:20:24.276 [info] Extension host with pid 12927 exiting with code 0

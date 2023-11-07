@@ -1,0 +1,6 @@
+#!/bin/bash
+
+path=$(pwd2)
+newpath="${path/'/'home'/'lei906'/'Desktop'/'Quarantine/'/'}"
+newpath2="${newpath/'//'/'/'}"
+echo "$newpath2"
